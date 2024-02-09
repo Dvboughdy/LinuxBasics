@@ -283,4 +283,6 @@ moviendolo  al background y continuar trabajando en la terminal mientras el prog
 
 ![](https://i.postimg.cc/fTms8Pq1/imagen-2024-02-08-184649101.png)
 
-> [!NOTE] Este conocimiento es útil cuando necesitamos ejecutar varios comandos en paralelo con una sola terminal. Con estos métodos, podemos gestionar eficazmente los procesos según nuestras necesidades.
+> [!NOTE]
+>
+> Este conocimiento es útil cuando necesitamos ejecutar varios comandos en paralelo con una sola terminal. Con estos métodos, podemos gestionar eficazmente los procesos según nuestras necesidades.
